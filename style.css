@@ -1,0 +1,9 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.header {
+  background-color: yellow;
+  text-align: center;
+}
